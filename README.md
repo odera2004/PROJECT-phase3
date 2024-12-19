@@ -20,8 +20,11 @@ CRUD Operations for managing Wholesales, Employees, Products, and Consumers.
 The application provides a menu-driven interface that allows administrators to:
 
 1. Manage Technical Instructors: Add, view, update, and delete instructors.
-2. Manage Courses: Add, view, update, and delete courses.
-3. Manage Students: Add, view, update, and delete students.
+
+   ## slides
+   https://docs.google.com/presentation/d/1fmXk6z6CAN534Hua6X_xzdlljSq9GskZ-sRa6Y--5ps/edit?usp=sharing
+3. Manage Courses: Add, view, update, and delete courses.
+4. Manage Students: Add, view, update, and delete students.
 
 ## LICENSE
 This project is licensed under the MIT License - see the LICENSE file for details.
